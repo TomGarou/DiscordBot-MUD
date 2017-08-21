@@ -1,5 +1,7 @@
 Multi user dungeon framework for Dischord bot.
 
+(Ok I don't know the first thing about Licences, But This project I have used. Node.Js in conjuntion with Javascript for the code. (Started with at the time 8/21/2017 https://www.youtube.com/user/theadamgaskins incomplete tutorial on Node.js bots)   Visual Studio's IDE, Discrod.js-ommando as the foundation and I have no idea what licenses are required, I do know that Commando.js is under Apache 2.0 and I have implemnted their code, therefore at the verry least anything refrencing commando is under somthing pertaining to a project that uses something under a project using Apache 2.0)
+
 Premise
     Make a Mud that interfaces to Discord and is hosted on the botowners server.
 
